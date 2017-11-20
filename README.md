@@ -1,2 +1,2 @@
 # SMC
-Sparksammy Media Center
+Sparksammy Media Center Repo (not to be confused with Super Melty Cheese)
